@@ -1,0 +1,6 @@
+c:\users\катя\documents\visual studio 2013\Projects\Tech\LR2\LR2\bin\Debug\LR2.exe.config
+c:\users\катя\documents\visual studio 2013\Projects\Tech\LR2\LR2\bin\Debug\LR2.exe
+c:\users\катя\documents\visual studio 2013\Projects\Tech\LR2\LR2\bin\Debug\LR2.pdb
+c:\users\катя\documents\visual studio 2013\Projects\Tech\LR2\LR2\obj\Debug\LR2.csprojResolveAssemblyReference.cache
+c:\users\катя\documents\visual studio 2013\Projects\Tech\LR2\LR2\obj\Debug\LR2.exe
+c:\users\катя\documents\visual studio 2013\Projects\Tech\LR2\LR2\obj\Debug\LR2.pdb

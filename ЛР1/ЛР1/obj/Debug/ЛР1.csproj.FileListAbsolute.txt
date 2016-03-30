@@ -1,0 +1,12 @@
+c:\users\катя\documents\visual studio 2013\Projects\ЛР1\ЛР1\bin\Debug\ЛР1.exe.config
+c:\users\катя\documents\visual studio 2013\Projects\ЛР1\ЛР1\bin\Debug\ЛР1.exe
+c:\users\катя\documents\visual studio 2013\Projects\ЛР1\ЛР1\bin\Debug\ЛР1.pdb
+c:\users\катя\documents\visual studio 2013\Projects\ЛР1\ЛР1\obj\Debug\ЛР1.exe
+c:\users\катя\documents\visual studio 2013\Projects\ЛР1\ЛР1\obj\Debug\ЛР1.pdb
+C:\Users\Катя\documents\visual studio 2013\Projects\ЛР1\ЛР1\obj\Debug\ЛР1.csprojResolveAssemblyReference.cache
+C:\Users\Катя\Desktop\PP\ЛР1\ЛР1\bin\Debug\ЛР1.exe.config
+C:\Users\Катя\Desktop\PP\ЛР1\ЛР1\obj\Debug\ЛР1.exe
+C:\Users\Катя\Desktop\PP\ЛР1\ЛР1\obj\Debug\ЛР1.pdb
+C:\Users\Катя\Desktop\PP\ЛР1\ЛР1\bin\Debug\ЛР1.exe
+C:\Users\Катя\Desktop\PP\ЛР1\ЛР1\bin\Debug\ЛР1.pdb
+C:\Users\Катя\Desktop\PP\ЛР1\ЛР1\obj\Debug\ЛР1.csprojResolveAssemblyReference.cache
