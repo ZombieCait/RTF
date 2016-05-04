@@ -6,3 +6,13 @@ C:\Users\Катя\Desktop\SDT\myService\myService\obj\Debug\myService.ProjectIns
 C:\Users\Катя\Desktop\SDT\myService\myService\obj\Debug\myService.csproj.GenerateResource.Cache
 C:\Users\Катя\Desktop\SDT\myService\myService\obj\Debug\myService.exe
 C:\Users\Катя\Desktop\SDT\myService\myService\obj\Debug\myService.pdb
+C:\Users\Катя\Desktop\pp\myService\myService\bin\Debug\myService.exe.config
+C:\Users\Катя\Desktop\pp\myService\myService\obj\Debug\myService.exe
+C:\Users\Катя\Desktop\pp\myService\myService\obj\Debug\myService.pdb
+C:\Users\Катя\Desktop\pp\myService\myService\bin\Debug\myService.exe
+C:\Users\Катя\Desktop\pp\myService\myService\bin\Debug\myService.pdb
+C:\Users\Катя\Desktop\pp\myService\myService\bin\Debug\OpenPop.dll
+C:\Users\Катя\Desktop\pp\myService\myService\bin\Debug\OpenPop.xml
+C:\Users\Катя\Desktop\pp\myService\myService\obj\Debug\myService.ProjectInstaller.resources
+C:\Users\Катя\Desktop\pp\myService\myService\obj\Debug\myService.csproj.GenerateResource.Cache
+C:\Users\Катя\Desktop\pp\myService\myService\obj\Debug\myService.csprojResolveAssemblyReference.cache
