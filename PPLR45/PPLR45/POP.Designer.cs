@@ -72,6 +72,7 @@
             this.popBox.Name = "popBox";
             this.popBox.Size = new System.Drawing.Size(313, 22);
             this.popBox.TabIndex = 22;
+            this.popBox.Text = "pop.gmail.com";
             // 
             // label3
             // 

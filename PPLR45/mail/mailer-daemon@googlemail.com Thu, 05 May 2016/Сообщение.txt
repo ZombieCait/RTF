@@ -1,0 +1,61 @@
+Тема: Delivery Status Notification (Failure)
+
+Delivery to the following recipient failed permanently:
+
+     zombiecait@gmail.com
+
+Technical details of permanent failure: 
+Google tried to deliver your message, but it was rejected by the server for the recipient domain gmail.com by gmail-smtp-in.l.google.com. [2a00:1450:4010:c03::1b].
+
+The error that the other server returned was:
+550-5.1.1 The email account that you tried to reach does not exist. Please try
+550-5.1.1 double-checking the recipient's email address for typos or
+550-5.1.1 unnecessary spaces. Learn more at
+550 5.1.1  https://support.google.com/mail/answer/6596 ea10si6613616lbc.45 - gsmtp
+
+
+----- Original message -----
+
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:mime-version:from:to:subject
+         :content-transfer-encoding;
+        bh=ld0u7HWj6RrDcAl0OXWPQoZYe0mcxQJn0yqj8jF686Y=;
+        b=gv+8oYODPeCNr2Vuu3jk36+f9MtvV/Tyzonr+faunpGSERt5q9Bo2a8o8mMVKCWec2
+         7okK1P+0gstOXtwAxCnnLJ5vZUgQ5tkEyVxBvoKCdgc/eF9kmGHczcCOmLJb2K3E0gtu
+         4Q+9W5HdDLkFwR2bUYX7GeaGy95UdrGTEmfcLvlIuXytyijRID2eU9QDowoqTIQRaBkr
+         L6puZHYHDX+2ZLRaHnrwiS7MKIfJwHnGFGVdWUYwPVnk1jtPItk+OYvUa+LBh30scOfV
+         4TPfvdDTcjMjPhABFiltCh485s3/OKi+llfOA/UE/gGMeDk8aHLzkWZhgsePc3saEetB
+         yYow==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:message-id:date:mime-version:from:to:subject
+         :content-transfer-encoding;
+        bh=ld0u7HWj6RrDcAl0OXWPQoZYe0mcxQJn0yqj8jF686Y=;
+        b=N4T9rmDHrAfbqoky0RcIi82qi2AMq37E7WIeQuLbPZgfnpDGJhdLO42Pvm7DtsJZw5
+         JBzUzG3/w3PLopOS29f80arf2ASATLTAKf1RF+XX3RmVnrROidoyXs7mGlN4ugNDEV4D
+         bv4MqcAfkcgJoO43clZ0mX3NM6uWdrK7s/zlVe2vxPGnfSrtUm+cAKJHe8JYk5qhBpDf
+         s2UAtEMJNOkxGUfJBeBkaS4ia2ALHjo5K/QmfntdQkX9Xqw5XaAgEk/jQkDRXtOeZh3U
+         vxkeLmolLNyOVkrLRf5NQcOuhCQQHfDLasyrsSBdMrdCnmd9MquN9iNNP1ABAem2ptVg
+         ErOA==
+X-Gm-Message-State: AOPr4FXv60+/tAic1QslfGNdcRVjbd9VK8VmrYNgFNNLyZRSr9UtjckfWPw59bIJDxq2fg==
+X-Received: by 10.25.137.130 with SMTP id l124mr6112339lfd.122.1462456837741;
+        Thu, 05 May 2016 07:00:37 -0700 (PDT)
+Return-Path: <patrakova180397@gmail.com>
+Received: from xn--j1aj ([212.193.94.38])
+        by smtp.gmail.com with ESMTPSA id ez1sm1524053lbc.29.2016.05.05.07.00.36
+        for <zombiecait@gmail.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Thu, 05 May 2016 07:00:37 -0700 (PDT)
+Message-ID: <572b5205.21b9700a.200f6.7524@mx.google.com>
+Date: Thu, 05 May 2016 07:00:37 -0700 (PDT)
+X-Google-Original-Date: 5 May 2016 19:00:36 +0500
+MIME-Version: 1.0
+From: "kate" <patrakova180397@gmail.com>
+To: zombiecait@gmail.com
+Subject: test
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+work
+

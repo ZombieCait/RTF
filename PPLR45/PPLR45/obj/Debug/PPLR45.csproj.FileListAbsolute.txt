@@ -1,7 +1,6 @@
 C:\PPLR45\PPLR45\bin\Debug\PPLR45.exe.config
 C:\PPLR45\PPLR45\bin\Debug\PPLR45.exe
 C:\PPLR45\PPLR45\bin\Debug\PPLR45.pdb
-C:\PPLR45\PPLR45\obj\Debug\PPLR45.csprojResolveAssemblyReference.cache
 C:\PPLR45\PPLR45\obj\Debug\PPLR45.Properties.Resources.resources
 C:\PPLR45\PPLR45\obj\Debug\PPLR45.csproj.GenerateResource.Cache
 C:\PPLR45\PPLR45\obj\Debug\PPLR45.exe
@@ -9,3 +8,15 @@ C:\PPLR45\PPLR45\obj\Debug\PPLR45.pdb
 C:\PPLR45\PPLR45\obj\Debug\PPLR45.SendGet.resources
 C:\PPLR45\PPLR45\obj\Debug\PPLR45.POP.resources
 C:\PPLR45\PPLR45\obj\Debug\PPLR45.SMTP.resources
+C:\PPLR45\PPLR45\bin\Debug\Gnostice.PDFOne.dll
+C:\PPLR45\PPLR45\bin\Debug\Gnostice.PDFOne.Windows.PDFViewer.dll
+C:\PPLR45\PPLR45\bin\Debug\Gnostice.XtremeFontEngine.4.0.dll
+C:\PPLR45\PPLR45\bin\Debug\Gnostice.XtremeImageEngine.4.0.dll
+C:\PPLR45\PPLR45\bin\Debug\Ionic.Zlib.dll
+C:\PPLR45\PPLR45\bin\Debug\log4net.dll
+C:\PPLR45\PPLR45\bin\Debug\BouncyCastle.Crypto.dll
+C:\PPLR45\PPLR45\bin\Debug\Gnostice.PDFOne.xml
+C:\PPLR45\PPLR45\bin\Debug\Gnostice.PDFOne.Windows.PDFViewer.xml
+C:\PPLR45\PPLR45\bin\Debug\OpenPop.dll
+C:\PPLR45\PPLR45\bin\Debug\OpenPop.xml
+C:\PPLR45\PPLR45\obj\Debug\PPLR45.csprojResolveAssemblyReference.cache
