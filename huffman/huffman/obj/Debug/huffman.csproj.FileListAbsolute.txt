@@ -1,0 +1,6 @@
+c:\users\cait\documents\visual studio 2013\Projects\huffman\huffman\bin\Debug\huffman.exe.config
+c:\users\cait\documents\visual studio 2013\Projects\huffman\huffman\obj\Debug\huffman.csprojResolveAssemblyReference.cache
+c:\users\cait\documents\visual studio 2013\Projects\huffman\huffman\bin\Debug\huffman.exe
+c:\users\cait\documents\visual studio 2013\Projects\huffman\huffman\bin\Debug\huffman.pdb
+c:\users\cait\documents\visual studio 2013\Projects\huffman\huffman\obj\Debug\huffman.exe
+c:\users\cait\documents\visual studio 2013\Projects\huffman\huffman\obj\Debug\huffman.pdb
